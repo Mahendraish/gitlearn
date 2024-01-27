@@ -1,2 +1,3 @@
 # gitlearn
-learn git
+this is a git learing resp
+
